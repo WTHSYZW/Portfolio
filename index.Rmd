@@ -109,7 +109,7 @@ This map stratifies the level of walking accessibility to green space in Jiaxing
 ## Interactive Map of busstops in Jiaxing:
 This map attempts to demonstrate the number of bus stops owned per capita in each township. As is shown, the central area occupies the majority of bus stops and public transit.
 
-[![](thumbnails/Jiaxing_interactive.png)](https://strctre.github.io/WTHSYZW/Portfolio/fullsize/JX_map2/html){target="_blank"}
+[![](thumbnails/Jiaxing_interactive.png)](https://strctre.github.io/WTHSYZW/Portfolio/fullsize/JX_map2.html){target="_blank"}
 
 
 
